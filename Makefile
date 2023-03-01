@@ -1,5 +1,5 @@
 obj-m := pstree.o
-#obj-m := ppid.o
+
 
 
 KERNELDIR = /lib/modules/$(shell uname -r)/build
